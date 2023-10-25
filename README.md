@@ -1,1 +1,1 @@
-# tictactoe in C
+# Tic Tac Toe in C
